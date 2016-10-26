@@ -1,0 +1,8 @@
+.DS_Store
+/.tags*
+/build
+/config/*.yml
+/dist
+/lambda.yml
+/node_modules
+/reports
