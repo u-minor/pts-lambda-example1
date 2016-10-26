@@ -5,7 +5,9 @@
   "author": "Minoru Nakata <minoru@sprocket.bz>",
   "license": "SEE LICENSE IN LICENSE",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "gm": "^1.23.0"
+  },
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
